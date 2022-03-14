@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347419309975",
+    "project_id": "ratingapp-ea8c8",
+    "storage_bucket": "ratingapp-ea8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347419309975:android:4ff1692c93ec55d2a3f6d2",
+        "android_client_info": {
+          "package_name": "com.dandy.ratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347419309975-01haomfoc3gt02lbvi7oavh7fv2iqmvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPFKXveW_yTTy0mygatBDzYNBtkeB5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347419309975-01haomfoc3gt02lbvi7oavh7fv2iqmvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
